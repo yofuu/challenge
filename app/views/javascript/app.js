@@ -1,2 +1,3 @@
-let hello = 'Hello World';
-alert(hello);
+// let hello = 'Hello World';
+// alert(hello);
+alert(4 + 3);
