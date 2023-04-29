@@ -1,3 +1,4 @@
-// let hello = 'Hello World';
-// alert(hello);
-alert(4 + 3);
+function addString(strA){
+  let addStr = "Hello " + strA;
+  return addStr;
+}
